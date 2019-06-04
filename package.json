@@ -1,0 +1,22 @@
+{
+  "name": "uptask",
+  "version": "1.0.0",
+  "description": "Negocios Web 2019 Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackeline21/UpTask-Test.git"
+  },
+  "keywords": [
+    "UpTask"
+  ],
+  "author": "Jackeline Varela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackeline21/UpTask-Test/issues"
+  },
+  "homepage": "https://github.com/jackeline21/UpTask-Test#readme"
+}
